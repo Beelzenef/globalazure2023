@@ -11,11 +11,16 @@
 - [GlobalAzure Spain 2023 en Twitch](https://www.twitch.tv/catzure)
 - [Twitter](https://twitter.com/GlobalAzureES)
 
-## Sobre la sesión
+## Sobre Azure Static Apps
 
 - [Azure Static Apps](https://azure.microsoft.com/en-gb/products/app-service/static/)
 - [Learning path en Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/azure-static-web-apps/)
 - [GitHub Actions](https://docs.github.com/en/actions)
+
+## Sobre la sesión
+
 - [Sitio web desplegado](https://agreeable-sand-0e7759403.3.azurestaticapps.net/)
+- [Slides](https://1drv.ms/p/s!AkcJg4FUx8k0iFz5P_8wochPJX9n?e=Z2ygBv)
+- [Sesion en YouTube](https://youtu.be/bLPPpqwC0R0)
 
 Si quieres saber más, encuéntrame en [Twitter (@Beelzenef_)](https://twitter.com/Beelzenef_)
